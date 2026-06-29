@@ -46,3 +46,8 @@ WSO2 API Manager is an all-in-one, open-source API management platform that hand
 | 06 | Key Management & Auth | Auth | Developer registers app, gets API key or OAuth token via key manager |
 | 07 | Runtime Traffic & Throttling | Gateway | Live requests are routed, rate-limited, and cached at the gateway |
 | 08 | Analytics & Observability | Observe | Traffic, latency, errors, and per-developer usage tracked via Moesif integration |
+
+---
+
+## Learn More
+[WSO2 API Manager](https://wso2.com/api-platform/api-manager/)
