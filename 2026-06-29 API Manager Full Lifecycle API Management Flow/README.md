@@ -7,7 +7,7 @@
 
 ---
 
-![WSO2 API Manager: Full Lifecycle API Management Flow](images/wso2_flow_today.png)
+![WSO2 API Manager: Full Lifecycle API Management Flow](images/wso2_flow_animated.gif)
 
 ---
 
