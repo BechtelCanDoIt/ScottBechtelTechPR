@@ -1,3 +1,6 @@
+# WARNING
+I am unable to find documenation for AMP that supports this flow. I'm following up to see if this is possible.
+
 # Agent Manager: Human-in-the-Loop Approval Flow
 **Date:** 2026-07-01  **Product:** [WSO2 Agent Manager](https://wso2.com/agent-platform/agent-manager/)
 
