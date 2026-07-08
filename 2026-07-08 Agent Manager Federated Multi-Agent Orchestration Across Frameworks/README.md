@@ -13,6 +13,9 @@ WSO2 Agent Manager gives every agent, regardless of framework or runtime, a home
 
 ![Flow Diagram](images/wso2_flow_animated.gif)
 
+NOTE: Steps 3) Orchestrate and 8) Transform are up to the provided Agent to do.
+
+
 **Patterns Used**
 
 - Orchestrator-Worker Pattern
