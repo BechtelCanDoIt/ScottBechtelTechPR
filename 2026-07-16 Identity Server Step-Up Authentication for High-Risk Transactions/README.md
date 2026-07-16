@@ -1,6 +1,10 @@
 # Identity Server: Step-Up Authentication for High-Risk Transactions
 **Date:** Thursday, July 16, 2026  **Product:** [Identity Server](https://wso2.com/identity-and-access-management/)
 
+## The $20 ATM vs. the $50,000 Wire
+
+![Step-Up Authentication Comic](images/stepup_comic.png)
+
 ## Business Problem
 
 A bank lets customers approve a $50,000 wire transfer with the same PIN they use to check a balance. An attacker who has phished that PIN walks straight through - no extra friction, no second check. Regulators expect stronger proof for high-risk moves, and customers still want to tap a 4-digit code for everything else.
