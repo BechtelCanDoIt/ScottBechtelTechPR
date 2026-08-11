@@ -14,6 +14,8 @@ WSO2 API Platform connects to an existing Azure API Management instance in place
 - Zero Trust Security
 
 ## Architecture
+![Architecture Diagram](images/wso2_multicloud_architecture.png)
+
 ![Flow Diagram](images/wso2_flow_animated.gif)
 
 ---
