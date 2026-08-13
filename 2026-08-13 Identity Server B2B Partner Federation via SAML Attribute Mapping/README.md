@@ -1,6 +1,8 @@
 # Identity Server: B2B Partner Federation via SAML Attribute Mapping
 **Date:** Thursday, August 13, 2026  **Product:** [Identity Server](https://wso2.com/identity-and-access-management/)
 
+Feature Link: [Configure SAML federated IdP-Initiated Single Sign-On (SSO)](https://wso2.com/identity-platform/docs/guides/authentication/saml/saml-federated-idp-initiated-sso/)
+
 ## Business Problem
 Enterprises onboarding a new B2B partner often find the partner's employees already live in their own corporate IdP (Okta, Azure AD, ADFS), authenticating via SAML 2.0. The catch: the partner's attribute schema (department, role, employee ID) rarely lines up with the enterprise's internal claim dictionary, which breaks downstream authorization decisions and forces manual attribute wrangling for every new partner integration.
 
