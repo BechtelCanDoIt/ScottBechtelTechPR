@@ -1,3 +1,5 @@
+>Warning:  this is about an old product, however the concept is sound and the can be implemented other ways. Reach out if you are interested by creating an issue.
+
 # WSO2 IoT Server: Edge Gateway Disconnected-Mode Analytics and Sync Flow
 **Date:** Friday, August 28, 2026  **Product:** [WSO2 IoT Server](https://wso2.com/iot/)
 
