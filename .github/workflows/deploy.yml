@@ -1,3 +1,19 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Tells GitHub to run this workflow every time code hits main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   deploy:
     environment:
@@ -14,7 +30,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # Uploads everything (index.html, README.md, gifs) as-is
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
