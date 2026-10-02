@@ -89,6 +89,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Integrator, MI (Micro Integrator) & Stream Processor
 
+- [Micro Integrator: Store-and-Forward with Dead-Letter Replay](2026-10-02%20Micro%20Integrator%20Store-and-Forward%20with%20Dead-Letter%20Replay/README.md) (2026-10-02)
 - [StreamProcessor: Real-Time Event Stream Correlation for Fraud Anomaly Detection](2026-09-04%20StreamProcessor%20Real-Time%20Event%20Stream%20Correlation%20for%20Fraud%20Anomaly%20Detection/README.md) (2026-09-04)
 - [Enterprise Integrator: File-Driven Batch Integration with Guaranteed Delivery](2026-08-15%20Enterprise%20Integrator%20File-Driven%20Batch%20Integration%20with%20Guaranteed%20Delivery/README.md) (2026-08-15)
 - [Micro Integrator: EDI-to-API B2B Modernization Flow](2026-07-24%20Micro%20Integrator%20EDI-to-API%20B2B%20Modernization%20Flow/README.md) (2026-07-24)
