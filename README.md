@@ -110,6 +110,7 @@ A running collection of WSO2 product process flows: one animated architecture di
 
 ## Healthcare
 
+- [Patient Consent-Driven FHIR Access for AI Agents](2026-10-03%20Healthcare%20Patient%20Consent-Driven%20FHIR%20Access%20for%20AI%20Agents/README.md) (2026-10-03)
 - [CMS-0057-F Prior Authorization Flow](2026-08-21%20Healthcare%20CMS-0057-F%20Prior%20Authorization%20Flow/README.md) (2026-08-21)
 
 ## Legacy Products
